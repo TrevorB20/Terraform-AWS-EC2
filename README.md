@@ -1,1 +1,1 @@
-# Terraform-AWSEC2-S3
+# Terraform-AWS-EC2
