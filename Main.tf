@@ -15,7 +15,7 @@ provider "aws" {
 #Creating EC2 Instance
 
 resource "aws_instance" "web" {
-  ami           = "ami-0c614dee691cbbf37"
+  ami           = "provide your own AMI"
   instance_type = "t2.micro"
 
   tags = {
